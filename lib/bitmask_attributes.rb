@@ -51,4 +51,4 @@ module BitmaskAttributes
   end
 end
 
-ActiveRecord::Base.send :include, BitmaskAttributes
+# ActiveRecord::Base.send :include, BitmaskAttributes
